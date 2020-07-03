@@ -7,4 +7,4 @@ Convolutional coding with viterbi decoding for channel.
 
 Codes implemented in `EncoderDecoder.py` file.
 
-Alphabet probabilities should be written in `freq.txt`
+Alphabets' probabilities should be written in `freq.txt`
